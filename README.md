@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains the service to export and share data with social networks, such as: Instagram, Facebook, Twitter, WhatsApp. 
+This repo contains the application that exports and shares data in social networks, such as: Instagram, Facebook, Twitter, WhatsApp. 
 It is responsible to be the _anti-corruption layer_ between SpotMusic and the external world. 
 It produces events every time that a external account is connected with us, and when someone shares a post in any social network.
 
