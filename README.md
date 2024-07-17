@@ -9,7 +9,7 @@ It produces events every time that a external account is connected with us, and 
 ## Project Structure
 
 - internal
-  - **apis**: Is where the external APIs lives to connect with the social-networks
+  - **apis**: Where the external APIs lives to connect with the social-networks
   - **domain**: Where we keep our domain modules like the entities, values, consts, interfaces, etc. Everything strict related to SpotMusic only.
   - **infra**: The infrastructure modules to use third-party tooling as Kafka, MySQL, Redis, so on.
   - **producers**: It produces events to _kafka_ based on event triggers. 
